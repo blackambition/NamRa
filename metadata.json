@@ -1,0 +1,6 @@
+{
+  "name": "Namibia Import Calculator",
+  "description": "Calculate import duties, VAT, and total landing costs for goods purchased in South Africa and imported into Namibia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
